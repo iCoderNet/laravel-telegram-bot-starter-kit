@@ -9,12 +9,12 @@
 </p>
 
 <p align="center">
-  <a href="#xususiyatlar">Xususiyatlar</a> •
-  <a href="#skrinshotlar">Skrinshotlar</a> •
-  <a href="#ornatish">O'rnatish</a> •
-  <a href="#foydalanish">Foydalanish</a> •
-  <a href="#sozlamalar">Sozlamalar</a> •
-  <a href="#litsenziya">Litsenziya</a>
+  <a href="#-xususiyatlar">Xususiyatlar</a> •
+  <a href="#-skrinshotlar">Skrinshotlar</a> •
+  <a href="#-ornatish">O'rnatish</a> •
+  <a href="#-foydalanish">Foydalanish</a> •
+  <a href="#-sozlamalar">Sozlamalar</a> •
+  <a href="#-litsenziya">Litsenziya</a>
 </p>
 
 <p align="center">
